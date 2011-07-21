@@ -1,6 +1,18 @@
 # Status
 
+__Status__ is a Rack middleware that provides application status information.
+
 It doesn't really do anything apart from printing 'OK' from `/status` right now. More features to come.
+
+## How to use this gem?
+
+### Rails
+
+In the `Gemfile`, add:
+
+``` ruby
+gem 'status'
+```
 
 ## Author
 

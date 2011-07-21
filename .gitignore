@@ -1,5 +1,6 @@
 .DS_Store
 Gemfile.lock
+pkg/
 
 spec/dummy_apps/rails_app/log/
 spec/dummy_apps/rails_app/tmp/
