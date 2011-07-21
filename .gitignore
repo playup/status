@@ -1,0 +1,6 @@
+.DS_Store
+Gemfile.lock
+
+spec/dummy_apps/rails_app/log/
+spec/dummy_apps/rails_app/tmp/
+spec/dummy_apps/rails_app/db/*.sqlite3
